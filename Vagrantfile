@@ -20,4 +20,3 @@ config.vm.boot_timeout = 600
     end
   end
 end
-
